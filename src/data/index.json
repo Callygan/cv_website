@@ -30,19 +30,48 @@
             "id": "1", 
             "src": "./img/placeholder-image.png", 
             "title": "Ahuse", 
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique", "link": "View In Github"
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique", 
+            "link": "View In Github"
         },
         {
             "id": "2", 
             "src": "./img/placeholder-image-1.png", 
             "title": "App Dashboard", 
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique", "link": "View In Github"
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique", 
+            "link": "View In Github"
         },
         {
             "id": "3", 
             "src": "./img/placeholder-image-2.png", 
             "title": "Easy Rent", 
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique", "link": "View In Github"
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique", 
+            "link": "View In Github"
+        }
+    ], 
+    "testimonial":  [
+        {
+            "id": "1", 
+            "count": "5",
+            "src": "./img/avatar-image.png", 
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Dianner Russel",  
+            "author_designation": "Sturbucks"
+        },
+        {
+            "id": "2", 
+            "count": "5",
+            "src": "./img/avatar-image-1.png", 
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kristian Watson",  
+            "author_designation": "Luis Vuitton"
+        },
+        {
+            "id": "3", 
+            "count": "5",
+            "src": "./img/avatar-image-2.png", 
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kathryn Murphy",  
+            "author_designation": "McDonald's"
         }
     ]
 }
