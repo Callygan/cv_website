@@ -41,7 +41,7 @@ export default function ContactMe() {
             />
           </label>
           <label htmlFor="phone-number" className="contact--label">
-            <span className="text-md">phone-number</span>
+            <span className="text-md">Phome</span>
             <input
               type="number"
               className="contact--input text-md"
@@ -71,7 +71,7 @@ export default function ContactMe() {
         </label>
         <label htmlFor="checkboc" className="checkbox--label">
           <input type="checkbox" required name="checkbox" id="checkbox" />
-          <span className="text-sm">I accept the terms</span>
+          <span className="text-sm">I accept the terms and conditions</span>
         </label>
         <div>
           <button className="btn btn-primary contact--form--btn">Submit</button>
